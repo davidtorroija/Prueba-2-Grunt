@@ -1,0 +1,27 @@
+{
+  "name": "Karma.gs",
+  "version": "0.0.7",
+  "authors": [
+    "Nathan Kot <me@nathankot.com>"
+  ],
+  "description": "A Stylus grid system for savvy developers.",
+  "main": "grid.styl",
+  "keywords": [
+    "grid",
+    "system",
+    "stylus",
+    "typographic"
+  ],
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/nathankot/Karma.gs",
+  "_release": "0.0.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.7",
+    "commit": "39e87ce76d57deb301dc2f7afc60acad42b413e7"
+  },
+  "_source": "git://github.com/nathankot/Karma.gs.git",
+  "_target": "~0.0.7",
+  "_originalSource": "karma",
+  "_direct": true
+}
